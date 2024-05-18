@@ -4,3 +4,4 @@ ESC with N-Mosfet
 
 Power with LM7805
 
+<img width="575" alt="Power" src="https://github.com/YeeeeeHo/Drone__/assets/139672321/3aa7e552-e97f-4b02-b9d2-3ad6fcdec42a">
