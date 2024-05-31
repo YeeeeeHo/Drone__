@@ -21,7 +21,7 @@ void buzzer_off(){
 	TCCR2 &= ~(1 << COM21);
 }
 int main(void) {
-	PWM_Init();
+	buzzer_on(125);
 	while (1) {
 	// 무한 루프 내에서 필요한 작업 수행
 	// 여기서는 PWM이 자동으로 생성되므로 별도의 코드가 필요 없음
